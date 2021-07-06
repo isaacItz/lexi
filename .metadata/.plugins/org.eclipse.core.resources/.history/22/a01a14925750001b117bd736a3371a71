@@ -1,0 +1,7 @@
+package modelo;
+
+public class Decorar {
+	private int nodo;
+	private Token token
+
+}

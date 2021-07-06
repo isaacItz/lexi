@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Hp\Documents\analisador\.metadata\.plugins\org.eclipse.jdt.core
+2495038494.index
+3276563851.index
+2334568458.index
+113558702.index
+1067094681.index
